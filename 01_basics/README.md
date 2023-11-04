@@ -1,3 +1,15 @@
+# JavaScript Basics
+
+## Comments in JavaScript
+- Single line comments are created using //
+- Multi line comments are created using /* and */
+javascript
+```javascript
+// This is a single line comment
+/* This is a
+multi line comment */
+```
+
 ## Variables and Constant
 - Variables are used to store values in memory.
 - Variables are created when you assign a value to it.
