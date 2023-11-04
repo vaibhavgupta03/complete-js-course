@@ -32,6 +32,11 @@ let sym = Symbol();
 console.log(sym); // Symbol()
 console.log(typeof sym); // symbol
 
+// 1.7 BigInt
+let bigInt = 1234567890123456789012345678901234567890n;
+console.log(bigInt); // 1234567890123456789012345678901234567890n
+console.log(typeof bigInt); // bigint
+
 // 2. Non-Primitive Data Types
 
 // 2.1 Object
