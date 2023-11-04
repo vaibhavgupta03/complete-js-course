@@ -7,10 +7,10 @@
 - Variables declared using var keyword are function scoped
 - Variables declared using let keyword are block scoped
 
-- Note:-
+### Note:-
 Prefer not to use var
-because of issue in block scope and functional scope.
-var is hoisted at the top of its containing function, but initialized with undefined.
+because of issue in block scope and functional scope.<br/>
+var is hoisted at the top of its containing function, but initialized with undefined.<br/>
 let is not initialized.
 const is not initialized and cannot be reassigned.
 
