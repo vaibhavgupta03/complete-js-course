@@ -3,7 +3,7 @@
 ## Comments in JavaScript
 - Single line comments are created using //
 - Multi line comments are created using /* and */
-javascript
+
 ```javascript
 // This is a single line comment
 /* This is a
