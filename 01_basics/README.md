@@ -67,3 +67,7 @@ const is not initialized and cannot be reassigned.
 - Bitwise operators are used to perform bitwise operations
 
 ## Conditionals
+- Conditionals are used to execute a block of code based on a condition
+- Conditionals are created using if, else if and else keywords
+- Conditionals are created using switch and case keywords
+
