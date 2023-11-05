@@ -48,8 +48,8 @@ console.log(typeof bigInt); // bigint
 
 // 2.1 Object
 let obj = {
-  name: "John",
-  age: 30,
+  name: "Vaibhav",
+  age: 20,
 };
 console.log(obj); // { name: 'John', age: 30 }
 console.log(typeof obj); // object
