@@ -34,12 +34,17 @@ let sym = Symbol(); //They are unique
 console.log(sym); // Symbol()
 console.log(typeof sym); // symbol
 
+const id = Symbol('123')
+const anotherId = Symbol('123')
+
+console.log(id === anotherId); //false
+
 // 1.7 BigInt
 let bigInt = 1234567890123456789012345678901234567890n;
 console.log(bigInt); // 1234567890123456789012345678901234567890n
 console.log(typeof bigInt); // bigint
 
-// 2. Non-Primitive Data Types
+// 2. Reference(Non-Primitive) Data Types
 
 // 2.1 Object
 let obj = {
@@ -60,21 +65,6 @@ let func = function () {
 };
 console.log(func); // [Function: func]
 console.log(typeof func); // function
-
-// 2.4 Date
-let date = new Date();
-console.log(date); // 2021-04-16T07:33:42.454Z
-console.log(typeof date); // object
-
-// 2.5 RegExp
-let reg = /Hello World/;
-console.log(reg); // /Hello World/
-console.log(typeof reg); // object
-
-// 2.6 Error
-let err = new Error("Error Message");
-console.log(err); // Error: Error Message
-
 
 
 //alert (3+3) //we are using nodejs, not browser

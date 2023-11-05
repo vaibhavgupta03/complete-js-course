@@ -38,7 +38,32 @@ const is not initialized and cannot be reassigned.
 - Null
 - Undefined
 - Symbol
+- BigInt
 - Reference data type is
 - Object
+- Array
+- Functions
 
+## Type Conversion
+- Type conversion is the process of converting one data type to another
+- Type conversion can be implicit or explicit
+- Implicit type conversion is done automatically by JavaScript
+- Explicit type conversion is done manually by the programmer
 
+## Operators
+- Operators are used to perform operations on operands
+- Operands can be variables or values
+- Operators are classified into
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Bitwise operators
+
+- Arithmetic operators are used to perform arithmetic operations
+- Assignment operators are used to assign values to variables
+- Comparison operators are used to compare two values
+- Logical operators are used to combine conditional statements
+- Bitwise operators are used to perform bitwise operations
+
+## Conditionals
