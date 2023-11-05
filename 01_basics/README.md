@@ -71,3 +71,64 @@ const is not initialized and cannot be reassigned.
 - Conditionals are created using if, else if and else keywords
 - Conditionals are created using switch and case keywords
 
+## Maths in JS
+- Math is a built-in object that has properties and methods for mathematical constants and functions
+- Math is not a constructor
+- Math is a static object
+- Math properties are
+- Math.E
+- Math.PI
+- Math.SQRT2
+
+- Math methods are
+- Math.abs()
+- Math.ceil()
+- Math.floor()
+- Math.max()
+- Math.min()
+- Math.pow()
+- Math.random()
+
+## Strings in JS
+- Strings are used to store text
+- Strings are created using single quotes or double quotes
+- Strings are indexed
+
+## String Methods
+- String methods are used to perform operations on strings
+- String methods are
+- length
+- toUpperCase()
+- toLowerCase()
+- charAt()
+- indexOf()
+- lastIndexOf()
+- includes()
+- concat()
+- trim()
+- slice()
+- substring()
+
+## Dates in JS
+- Date is a built-in object that stores the date and time
+- Date is a constructor
+- Date is a static object
+- Date methods are
+- Date.now()
+- Date.parse()
+- Date.UTC()
+- Date.prototype.getDate()
+- Date.prototype.getDay()
+- Date.prototype.getFullYear()
+- Date.prototype.getHours()
+- Date.prototype.getMilliseconds()
+- Date.prototype.getMinutes()
+- Date.prototype.getMonth()
+- Date.prototype.getSeconds()
+
+## Memories in JavaScript
+### Stack Memory
+- Stack memory is used to store primitive data types
+
+### Heap Memory
+- Heap memory is used to store reference data types
