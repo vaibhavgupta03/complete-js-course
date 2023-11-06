@@ -47,4 +47,4 @@
 | ES9     | 2018 | Ninth Edition |
 | ES10    | 2019 | Tenth Edition |
 | ES11    | 2020 | Eleventh Edition |
-| ES12    | 2021 | Twelfth Edition |
+| ES12    | 2021 | Twelth Edition |
