@@ -18,7 +18,7 @@ console.log(JsUser.name);
 console.log(JsUser["name"]);
 console.log(JsUser[mySym]);
 */
-
+//console.log(typeof JsUser[mySym]);
 //Object.freeze(JsUser);//Jsuser ki value freez kr dega aur change ni hone dega
 
 JsUser.greeting = function () {
@@ -29,4 +29,5 @@ JsUser.greetingTwo = function () {
     console.log(`Hello JS User, ${this.name}`);
 }
 
-console.log(JsUser.greetingTwo());
+JsUser.greeting();
+JsUser.greetingTwo();
