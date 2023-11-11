@@ -16,7 +16,7 @@ const JsUser = {
 /*
 console.log(JsUser.name);
 console.log(JsUser["name"]);
-console.log(JsUser[mySym]);
+console.log(JsUser[mySym]); //symbol (dot) notation se ni print hoga usko access krne k liye [square] bracket use krna pdega
 */
 //console.log(typeof JsUser[mySym]);
 //Object.freeze(JsUser);//Jsuser ki value freez kr dega aur change ni hone dega
