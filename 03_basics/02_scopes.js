@@ -53,5 +53,5 @@ function addOne(num) {
 
 const addTwo = function (num) {
     return num + 2
-}
+}  //if function is defined and stored in a variable then hoisting not works and we can't use before definition.
 addTwo(5);
