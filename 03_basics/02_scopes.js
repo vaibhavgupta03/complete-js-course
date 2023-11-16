@@ -44,7 +44,7 @@ if (true) {
 
 //+++++++++++++++++++++++++++++++++
 
-console.log(addOne(5))//Hoisting 
+console.log(addOne(5));//Hoisting 
 
 function addOne(num) {
     return num + 1;
